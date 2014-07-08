@@ -2,7 +2,7 @@
   "name": "package-dotfiles",
   "version": "0.3.0",
   "dependencies": {
-    "package-dotfiles-installer": "^0.1.0"
+    "package-dotfiles-installer": "^0.2.0"
   },
   "license": "MIT"
 }
