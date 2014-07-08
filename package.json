@@ -1,7 +1,7 @@
 {
   "name": "package-dotfiles",
   "version": "0.0.0",
-  "description": "Keep all of your projects' dotfiles in sync by making them an installable/updatable package.",
+  "description": "Keep dotfiles consistent across your projects by making them an installable/updatable package.",
   "main": "index.js",
   "scripts": {
     "postinstall": "node index.js",
@@ -20,6 +20,10 @@
     "name": "Colin Gourlay",
     "email": "colin@colin-gourlay.com",
     "url" : "http://colin-gourlay.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/colingourlay/package-dotfiles.git"
   },
   "license": "MIT",
   "dependencies": {
