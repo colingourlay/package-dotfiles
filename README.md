@@ -1,6 +1,6 @@
 # package-dotfiles
 
-Keep all of your packages' dotfiles in sync by making them an installable/updatable package of their own.
+Keep all of your projects' dotfiles in sync by making them an installable/updatable package.
 
 # Usage guide
 
