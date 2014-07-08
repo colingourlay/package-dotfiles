@@ -1,0 +1,58 @@
+{
+  // Define globals exposed by Node
+  "node": true,
+
+  // Define globals exposed by modern browsers
+  "browser": true,
+
+  // Enforce tab width of 2 spaces
+  "indent": 2,
+
+  // Allow SmartTabs
+  "smarttabs": true,
+
+  // Enforce use of single quotation marks for strings
+  "quotmark": "single",
+
+  // Make curly braces optional around blocks in loops and conditionals
+  "curly": false,
+
+  // Allow immediate function invocations without wrapping them in parentheses
+  "immed": false,
+
+  // Prohibit the use of arguments.caller and arguments.callee
+  "noarg": true,
+
+  // Suppress warnings about assignments where comparisons are expected
+  "boss": true,
+
+  // Allow use of == and != in favor of === and !==
+  "eqeqeq": false,
+
+  // Suppress warnings about == null comparisons
+  "eqnull": true,
+
+  // Require capitalized names for constructor functions
+  "newcap": true,
+
+  // Prohibit trailing whitespace
+  "trailing": true,
+
+  // Prohibit use of explicitly undeclared variables
+  "undef": true,
+
+  // Warn when variables are defined but never used
+  "unused": true,
+
+  // Allow expressions where you would normally see assignments / function calls
+  "expr": true,
+
+  // Suppress object dot notation warnings
+  "sub": true,
+
+  // Define debugging globals (console, alert, etc.)
+  "devel": true,
+
+  // Define project-specific / 3rd party globals
+  "globals": {}
+}
